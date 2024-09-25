@@ -1,0 +1,14 @@
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\bin\Debug\net8.0\DynamicZlodej.exe
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\bin\Debug\net8.0\DynamicZlodej.deps.json
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\bin\Debug\net8.0\DynamicZlodej.runtimeconfig.json
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\bin\Debug\net8.0\DynamicZlodej.dll
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\bin\Debug\net8.0\DynamicZlodej.pdb
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.AssemblyInfoInputs.cache
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.AssemblyInfo.cs
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.csproj.CoreCompileInputs.cache
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.dll
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\refint\DynamicZlodej.dll
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.pdb
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\DynamicZlodej.genruntimeconfig.cache
+C:\Users\jan.ostatnicky\source\repos\DynamicZlodej\DynamicZlodej\obj\Debug\net8.0\ref\DynamicZlodej.dll
